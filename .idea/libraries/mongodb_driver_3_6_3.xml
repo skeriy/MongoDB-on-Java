@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mongodb-driver-3.6.3">
+    <CLASSES>
+      <root url="jar://D:/Java_programs, books/forjavamongo/bson-3.6.3.jar!/" />
+      <root url="jar://D:/Java_programs, books/forjavamongo/mongodb-driver-3.6.3.jar!/" />
+      <root url="jar://D:/Java_programs, books/forjavamongo/mongodb-driver-core-3.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
